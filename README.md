@@ -13,3 +13,5 @@ but a lone cursor blinked on a screen, ready to write the next chapter.
 
 [Read Chapter 4: Continuing the story](chapter_4.py)
 
+[Read Chapter 5: The Merge Approaches](chapter_5.py)  
+
